@@ -8,5 +8,4 @@ node_modules/
 .github/
 jsconfig.json
 ```
-env.py
 __pycache__/
